@@ -24,11 +24,10 @@
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "0",
     "mode_ads_interstitial_mix" : "0",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
-    "mode_button_ads_action" : "0"
-    },
-      "unity" : {
+    "mode_button_ads_action" : "0",
+    "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
       "unity_interstitial_id" : "",
