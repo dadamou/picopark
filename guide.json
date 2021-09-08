@@ -49,25 +49,25 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/picopark/icon.png",
       "state" : "free",
-      "title" : "Test title 0",
-      "description" : "Test description 0",
-      "written" : "Test written 0 <br>My written"
+      "title" : "Pico Park",
+      "description" : "",
+      "written" : "PICO PARK is a cooperative local multiplay action puzzle game for 2-8 players. Each level of PICO PARK can be cleared when players get the key, unlock the door and all players reach it. PICO PARK has 48 level and Battle Mode and Endless Mode. Let's have fun playing PICO PARK with your friends!"
     },
     {
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/picopark/1.png",
       "state" : "free",
       "title" : "STEPS 1",
-      "description" : "Test description 1",
-      "written" : "Test written 1"
+      "description" : "",
+      "written" : "PICO PARK is a cooperative local multiplay action puzzle game for 2-8 players. Each level of PICO PARK can be cleared when players get the key, unlock the door and all players reach it. PICO PARK has 48 level and Battle Mode and Endless Mode. Let's have fun playing PICO PARK with your friends!"
     },
     {
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/picopark/2.png",
       "state" : "free",
       "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "description" : "",
+      "written" : "PICO PARK is a cooperative local multiplay action puzzle game for 2-8 players. Each level of PICO PARK can be cleared when players get the key, unlock the door and all players reach it. PICO PARK has 48 level and Battle Mode and Endless Mode. Let's have fun playing PICO PARK with your friends!"
     }
   ]
 }
