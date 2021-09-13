@@ -49,41 +49,41 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/picopark/wb4.png",
       "state" : "free",
-      "title" : "Test title 0",
-      "description" : "Test description 0",
-      "written" : "Test written 0 <br>My written"
+      "title" : "Wobbly Life ",
+      "description" : "Wobbly Life is a lively open-world Read More...",
+      "written" : "<p>Wobbly Life is a lively open-world physics-based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys.&nbsp;</p><p><br></p><p>Be hard-working wobbly and work around town in various roles to earn cash to own properties and purchase/customize new clothes and vehicles.</p>"
     },
     {
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/picopark/wb2.png",
       "state" : "free",
-      "title" : "STEPS 1",
-      "description" : "Test description 1",
-      "written" : "Test written 1"
+      "title" : "Wobbly STEPS 1",
+      "description" : "Play with your friends Read More...",
+      "written" : "<p>Play with your friends in Online and Local Co-op up to 4 players!</p><p><br></p><p>Wobbly Life is a lively open-world physics-based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys.&nbsp;</p><p><br></p><p>Be hard-working wobbly and work around town in various roles to earn cash to own properties and purchase/customize new clothes and vehicles.</p>"
     },
     {
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/picopark/wb3.png",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "Wobbly STEPS 2",
+      "description" : "Lively Open world Sandbox Read More...",
+      "written" : "<p>Lively Open world Sandbox filled a wide variety of mini-games, toys, and vehicles!</p><p><br></p><p>Wobbly Life is a lively open-world physics-based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys.&nbsp;</p><p><br></p><p>Be hard-working wobbly and work around town in various roles to earn cash to own properties and purchase/customize new clothes and vehicles.</p>"
     },
     {
       "id" : 3,
       "imageURL" : "https://dadamou.github.io/picopark/wb5.png",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "Wobbly STEPS 3",
+      "description" : "Varied customizatio Read More...",
+      "written" : "<p>Varied customization of characters and vehicles</p><p><br></p><p>Wobbly Life is a lively open-world physics-based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys.&nbsp;</p><p><br></p><p>Be hard-working wobbly and work around town in various roles to earn cash to own properties and purchase/customize new clothes and vehicles.</p>"
     },
     {
       "id" : 4,
       "imageURL" : "https://dadamou.github.io/picopark/wb3.png",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "Wobbly STEPS 4",
+      "description" : "Complete Jobs in the open world Read More...",
+      "written" : "<p>Complete Jobs in the open world to earn funds to unlock clothes, vehicles, and houses!</p><p><br></p><p>Wobbly Life is a lively open-world physics-based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys.&nbsp;</p><p><br></p><p>Be hard-working wobbly and work around town in various roles to earn cash to own properties and purchase/customize new clothes and vehicles.</p>"
     }
   ]
 }
