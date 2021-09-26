@@ -22,7 +22,7 @@
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "0",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
@@ -49,41 +49,73 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/picopark/icon1.png",
       "state" : "free",
-      "title" : "Test title 0",
-      "description" : "Test description 0",
-      "written" : "Test written 0 <br>My written"
+      "title" : "",
+      "description" : "",
+      "written" : "About The Game RANCH In this guide, we will be sharing with you the best settings to avoid Ranch Simulator FPS drop, low frame rate, in-game lag, and other performance issues. If you're one of the players who have been getting Ranch Simulator performance issues, make sure to check the tips below."
     },
     {
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/picopark/S3.jpg",
       "state" : "free",
-      "title" : "STEPS 1",
-      "description" : "Test description 1",
-      "written" : "Test written 1"
+      "title" : "",
+      "description" : "",
+      "written" : "How to Fix Ranch Simulator FPS RANCH While there are some who have been getting a good Ranch Simulator gaming experience, there are also some gamers who are in constant lag and low FPS. If you're one of the players getting this kind of issue in Ranch Simulator, here's our recommendation to fix this problem."
     },
     {
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/picopark/S4.jpg",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "",
+      "description" : "",
+      "written" : "<p>GPU Settings Optimization RANCH For Nvidia users, here are the steps for how you can optimize the Ranch Simulator on your PC.&nbsp;</p><p>* Open Nvidia Control Panel. Simply right-click on your desktop and hit the program.&nbsp;</p><p>* Go to Manage 3D Settings and choose Ranch Simulator from the Program Settings.&nbsp;</p><p>* Set Power Management to Prefer Maximum Power. For AMD users, check the steps below to get good settings.&nbsp;</p><p>* Open Radeon Settings. Simply right-click on your desktop and hit the program.&nbsp;</p><p>* Once done, click Settings &gt; Switchable Graphics &gt; and choose Ranch Simulator. If the game is not listed, hit the Browse button and search</p>"
     },
     {
       "id" : 3,
       "imageURL" : "https://dadamou.github.io/picopark/S1.png",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "",
+      "description" : "",
+      "written" : "<p>Fix 2: Windows Graphic Settings... RANCH Usually, the settings that have been mentioned above will already fix the FPS drop and other performance issues in Ranch Simulator. But if you want to get more improvement, please following the steps below.&nbsp;</p><p><br></p><p>1-Open Graphics Settings from your computer. You can easily access this option by typing Graphics Settings in the search bar.&nbsp;</p><p>2- By default, you will be seeing the Classic App.&nbsp;</p><p>3- Click Browse and search for the .exe file of Ranch Simulator.&nbsp;</p><p>4-Click Options and select High Performance.&nbsp;</p><p>5- Click the Save button to save changes.</p><p>6-Go to the installation folder of Ranch Simulator and launch the game as an administrator.</p>"
     },
     {
       "id" : 4,
       "imageURL" : "https://dadamou.github.io/picopark/S2.png",
       "state" : "free",
-      "title" : "STEPS 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "",
+      "description" : "",
+      "written" : "<p>Fix 3: Update GPU Drivers RANCH Graphics card manufacturers have been constantly releasing new updates on their products to optimize every new application that is being released in the market.</p><p>&nbsp;If you haven&apos;t updated your graphics card for a while now, you should definitely get the new update today.</p>"
+     },
+    {
+      "id" : 5,
+      "imageURL" : "https://dadamou.github.io/picopark/S3.jpg",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "RANCH Last but not least is the actual visual optimization inside Ranchchoosing the medium settings for your PC. Depending on your hardware, you can play with the graphic settings in the game."
+     },
+    {
+      "id" : 6,
+      "imageURL" : "https://dadamou.github.io/picopark/S1.png",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "cow Ensure you have built a barn keep the doors locked to prevent the cow from escaping. You can milk a cow twice a day, remember to buy milk can so that you can transport and sell the milk at the general store."
+     },
+    {
+      "id" : 7,
+      "imageURL" : "https://dadamou.github.io/picopark/S3.jpg",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "PIG Ensure you have built a barn keep the doors locked to prevent the pig from escaping. You will need a lot of grain as once the pig has been fattened, you must slaughter it and deliver the meat to the general store to sell."
+    },
+    {
+      "id" : 8,
+      "imageURL" : "https://dadamou.github.io/picopark/S4.jpg",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "cost-effective and a great start for ranchers. Ensure you have built a chicken coop as this will keep them safe. Place a chicken in a coop and it will return their ti eat and sleep. Do not forget to keep replenishing the grain and water. Chickens lay eggs once a day, most often in the evening or at night. With at least one chicken and one rooster in the same coop, the chicken will soon lay a fertilized egg. Mother chickens are attentive to their eggs, sp if you pick up a fertilized one the chicken may start to bite you. You can purchase an otoscope from the general store for candling eggs which will help you see if the egg is fertilized. Put unfertilized eggs in a basket to safely transport them to the store to sell, but leave fertilized eggs with their mothers to hatch naturally."
     }
   ]
 }
